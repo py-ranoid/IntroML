@@ -13,6 +13,8 @@
 - [Deep learning book](http://www.deeplearningbook.org/) - Ian Goodfellow
 - Machine learning: A probabilistic perspective - P Murphy, 2012.
 - Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce
+- Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft)
+- Yoav Goldberg. ([A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 # Courses and Videos
 - YouTube channels:
@@ -30,6 +32,9 @@
 			- Convolutional Neural Networks
 			- Sequence Models
 - Stanford’s  CS231n: Convolutional Neural Networks for Visual Recognition. http://cs231n.github.io
+- Stanford's  CS229: Machine Learning Course. http://cs229.stanford.edu/
+	- Syllabus and Notes: http://cs229.stanford.edu/syllabus.html
+- Stanford's  CS224n: Natural Language Processing with Deep Learning. http://web.stanford.edu/class/cs224n/
 - fast.ai
 	- Deep Learning Part 1: [Practical Deep Learning for Coders](http://course.fast.ai/)
 	- Deep Learning Part 2: [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
