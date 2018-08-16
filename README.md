@@ -53,6 +53,7 @@
 	- [NumPy](http://www.numpy.org/)
 	- [SciPy](http://www.scipy.org/)
 	- [pandas](http://pandas.pydata.org/)
+	- Note: [Here's a free, easy course that introduces you to most of these libraries.](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview)
 - [Data Visualisation](https://github.com/josephmisiti/awesome-machine-learning#data-analysis--data-visualization-9)
 	- [matplotlib](http://matplotlib.org/)
 	- [seaborn](http://seaborn.pydata.org/)
