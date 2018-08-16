@@ -84,14 +84,15 @@
 	- [Caffe](http://caffe.berkeleyvision.org/)
 	- [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 	
-#Resources
+# Resources
 - [Installing python]
 	- [Anaconda] (https://www.anaconda.com/download/)
 	- [Instructions] (https://conda.io/docs/user-guide/install/windows.html)
 - [RStudio] (https://www.rstudio.com/products/rstudio/download/)
 - [Installing Jupyter notebooks] (http://jupyter.org/install)
 - [Good Practices for Machine Learning] (https://developers.google.com/machine-learning/guides/rules-of-ml/)
-- [Machine Learning Experts and Influencers]
+
+# Machine Learning Experts and Influencers
 	-[Andrew Ng](https://twitter.com/AndrewYNg)
 	-[Andrej Karpathy](https://twitter.com/karpathy)
 	-[Michael Jordan](https://people.eecs.berkeley.edu/~jordan/?_ga=1.104786372.57480868.1488216728)
