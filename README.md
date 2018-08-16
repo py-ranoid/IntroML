@@ -36,3 +36,17 @@
 		- Most 
 	- [Theano](https://github.com/Theano/Theano/)
 	- [Caffe](http://caffe.berkeleyvision.org/)
+	- [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+# Generic Information useful for ML
+- [Good Practices for Machine Learning] (https://developers.google.com/machine-learning/guides/rules-of-ml/)
+- [Machine Learning Experts and Influencers]
+	-[Andrew Ng](https://twitter.com/AndrewYNg)
+	-[Andrej Karpathy](https://twitter.com/karpathy)
+	-[Michael Jordan](https://people.eecs.berkeley.edu/~jordan/?_ga=1.104786372.57480868.1488216728)
+	-[Yann LeCun](https://twitter.com/ylecun)
+	-[Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+	-[James Cham](https://twitter.com/jamescham)
+	-[Bob Poekert](https://twitter.com/bobpoekert?lang=en)
+	-[Yoshua Bengio] (http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+	-[Ian Goodfellow](https://twitter.com/goodfellow_ian?lang=en)
+	-[Siraj Raval] (https://twitter.com/sirajraval)
