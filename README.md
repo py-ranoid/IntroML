@@ -1,16 +1,18 @@
 # Sites
-- Pythonprogramming.net
-- Towardsdatascience.com
-- Machinelearningmastery.com
-- pyimagesearch.com
-- https://brohrer.github.io/blog.html
+- [pythonprogramming.net](http://www.pythonprogramming.net)
+- [towardsdatascience.com](http://towardsdatascience.com)
+- [machinelearningmastery.com](http://machinelearningmastery.com)
+- [Image Search Engines and Basic Computer Vision](http://pyimagesearch.com)
+- [https://brohrer.github.io/blog.html](https://brohrer.github.io/blog.html)
 - Articles and blogs 
 	- Understanding CNNs - https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
 	- Introduction to Recurrent Networks - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+	- Introduction to Generative Models - https://blog.openai.com/generative-models/
 
 # Books
 - [Deep learning book](http://www.deeplearningbook.org/) - Ian Goodfellow
 - Machine learning: A probabilistic perspective - P Murphy, 2012.
+- Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce
 
 # Courses and Videos
 - YouTube channels:
@@ -19,6 +21,7 @@
 - Coursera
 	- [Andrew NG's Course on Machine Learning](https://www.coursera.org/learn/machine-learning)
 	- [Andrew NG's Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
+		- You can apply for Financial Support (access to the course for free for a period of time)
 		- Free for a week. ~Rs. 3000 per month to access assigments after that
 		- Contains 5 courses
 			- Neural Networks and Deep Learning
