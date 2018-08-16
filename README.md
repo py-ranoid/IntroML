@@ -101,6 +101,6 @@
 - [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 - [James Cham](https://twitter.com/jamescham)
 - [Bob Poekert](https://twitter.com/bobpoekert?lang=en)
-- [Yoshua Bengio] (http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian?lang=en)
-- [Siraj Raval] (https://twitter.com/sirajraval)
+- [Siraj Raval](https://twitter.com/sirajraval)
