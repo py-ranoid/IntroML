@@ -82,9 +82,14 @@
 		- Availabale for [C++](https://www.tensorflow.org/api_docs/cc/), [Java](https://www.tensorflow.org/install/install_java), [Android](https://www.tensorflow.org/mobile/android_build) and [JavaScript](https://js.tensorflow.org/)
 	- [Theano](https://github.com/Theano/Theano/)
 	- [Caffe](http://caffe.berkeleyvision.org/)
-
 	- [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
-# Other Generic Information useful for ML
+	
+#Resources
+- [Installing python]
+	- [Anaconda] (https://www.anaconda.com/download/)
+	- [Instructions] (https://conda.io/docs/user-guide/install/windows.html)
+- [RStudio] (https://www.rstudio.com/products/rstudio/download/)
+- [Installing Jupyter notebooks] (http://jupyter.org/install)
 - [Good Practices for Machine Learning] (https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Machine Learning Experts and Influencers]
 	-[Andrew Ng](https://twitter.com/AndrewYNg)
