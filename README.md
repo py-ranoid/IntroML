@@ -8,6 +8,7 @@
 	- Understanding CNNs - https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
 	- Introduction to Recurrent Networks - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 	- Introduction to Generative Models - https://blog.openai.com/generative-models/
+    - One Cycle Policy: https://sgugger.github.io/the-1cycle-policy.html
 
 # Books
 - [Deep learning book](http://www.deeplearningbook.org/) - Ian Goodfellow
