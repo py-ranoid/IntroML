@@ -104,3 +104,10 @@
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian?lang=en)
 - [Siraj Raval](https://twitter.com/sirajraval)
+
+# Notebooks
+## Week 1 
+- [Linear Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week1/Linear%20Regression%20with%20Numpy.ipynb)
+- [Numpy Basics](https://github.com/py-ranoid/IntroML/blob/master/Week1/01%20-%20numPy%20Basics.ipynb)
+## Week 2
+- [Logistic Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week2/Logistic%20Regression%20with%20Numpy.ipynb)
