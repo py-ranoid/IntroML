@@ -1,4 +1,14 @@
-# Sites
+# Notebooks
+## Week 1 
+- [Linear Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week1/Linear%20Regression%20with%20Numpy.ipynb)
+- [Numpy Basics](https://github.com/py-ranoid/IntroML/blob/master/Week1/01%20-%20numPy%20Basics.ipynb)
+
+## Week 2
+- [Logistic Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week2/Logistic%20Regression%20with%20Numpy.ipynb)
+- [Logistic Regression on MNIST with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week2/Logistic%20Regression%20on%20MNIST%20with%20Numpy.ipynb)
+
+# Resources
+## Sites
 - [pythonprogramming.net](http://www.pythonprogramming.net)
 - [towardsdatascience.com](http://towardsdatascience.com)
 - [machinelearningmastery.com](http://machinelearningmastery.com)
@@ -10,14 +20,14 @@
 	- Introduction to Generative Models - https://blog.openai.com/generative-models/
     - One Cycle Policy: https://sgugger.github.io/the-1cycle-policy.html
 
-# Books
+## Books
 - [Deep learning book](http://www.deeplearningbook.org/) - Ian Goodfellow
 - Machine learning: A probabilistic perspective - P Murphy, 2012.
 - Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce
 - Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft)
 - Yoav Goldberg. ([A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
-# Courses and Videos
+## Courses and Videos
 - YouTube channels:
 	- Siraj Raval
 	- Two minute papers
@@ -41,7 +51,7 @@
 	- Deep Learning Part 2: [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
 	- Computational Linear Algebra: [Online textbook](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) and [Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
-# Libraries
+## Libraries
 - [Natural Language Processing](https://github.com/josephmisiti/awesome-machine-learning#natural-language-processing-10)
 	- [NLTK](http://www.nltk.org/)
 	- [spaCy](https://github.com/honnibal/spaCy/)
@@ -85,7 +95,7 @@
 	- [Caffe](http://caffe.berkeleyvision.org/)
 	- [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 	
-# Resources
+## Installation reference
 - [Installing python]
 	- [Anaconda] (https://www.anaconda.com/download/)
 	- [Instructions] (https://conda.io/docs/user-guide/install/windows.html)
@@ -93,7 +103,7 @@
 - [Installing Jupyter notebooks] (http://jupyter.org/install)
 - [Good Practices for Machine Learning] (https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-# Machine Learning Experts and Influencers
+## Machine Learning Experts and Influencers
 
 - [Andrew Ng](https://twitter.com/AndrewYNg)
 - [Andrej Karpathy](https://twitter.com/karpathy)
@@ -105,11 +115,3 @@
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian?lang=en)
 - [Siraj Raval](https://twitter.com/sirajraval)
-
-# Notebooks
-## Week 1 
-- [Linear Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week1/Linear%20Regression%20with%20Numpy.ipynb)
-- [Numpy Basics](https://github.com/py-ranoid/IntroML/blob/master/Week1/01%20-%20numPy%20Basics.ipynb)
-
-## Week 2
-- [Logistic Regression with Numpy](https://github.com/py-ranoid/IntroML/blob/master/Week2/Logistic%20Regression%20with%20Numpy.ipynb)
