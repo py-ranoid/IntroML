@@ -1,1 +1,5 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
+Contains notebooks on the following topics - 
+(1) k Nearest Neighbor Classifier
+(2) Softmax
+(3) SVM
+(4) Two Layer Neural Network
