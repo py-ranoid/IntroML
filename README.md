@@ -26,6 +26,7 @@
 - Practical Statistics for Data Scientists - Peter Bruce, Andrew Bruce
 - Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft)
 - Yoav Goldberg. ([A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [Machine Learning by Tom Mitchell.](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)
 
 ## Courses and Videos
 - YouTube channels:
@@ -72,7 +73,7 @@
 - [General Purpose Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#general-purpose-machine-learning-21)
 	- [scikit-learn](http://scikit-learn.org/) 
 		- Most ML Algorithms
-		- Cannot be used used for Deep Learning		
+		- Cannot be used for Deep Learning		
 		- Uniform API and generic functions. 
 		- Doesn't support cuda
 	- [keras](https://github.com/fchollet/keras)
