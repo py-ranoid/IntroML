@@ -34,5 +34,5 @@ The IPython Notebook `two_layer_net.ipynb` will walk you through the  implementa
 ### Higher Level Representations : Image Features
 The IPython Notebook `features.ipynb` will walk you through this exercise, in which you will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
 
-####NOTE
+**NOTE**
 The Ipython notebooks also require you to complete the code in certain functions which are also present in this folder. Comments are present to show the are where you're supposed to add your code. 
