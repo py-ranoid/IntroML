@@ -9,6 +9,7 @@ Refer [this notebook by Andrew NG](https://github.com/Kulbear/deep-learning-cour
 - Inspired by functioning of [Human Brain (and nervous system)](https://www.youtube.com/watch?v=0J5tM9bSbwA&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&index=2)
 - Intuition is that every relation (between any input and output) can be represented with mathematical function
 - Hence, to predict output, find the best function (a.k.a weights)
+
 ### How do they work
 - They're like linear regression on steriods
 - *What if you used a linear regressor to predict inputs to another linear regressor** and so on
