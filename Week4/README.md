@@ -12,7 +12,7 @@ Refer [this notebook by Andrew NG](https://github.com/Kulbear/deep-learning-cour
 
 ### How do they work
 - They're like linear regression on steriods
-- *What if you used a linear regressor to predict inputs to another linear regressor** and so on
+- *What if you used a linear regressor to predict inputs to another linear regressor* and so on
 - Imagine cascaded/repeated linear regressors
 
 ![](https://i.kym-cdn.com/photos/images/newsfeed/000/531/557/a88.jpg)
@@ -33,6 +33,7 @@ Refer [this notebook by Andrew NG](https://github.com/Kulbear/deep-learning-cour
 - `1/2` ML done
 - Forward because `input --> HiddenLayer1 --> HiddenLayer2 --> .... --> Output`
 - Refer section 4.3 - Cell 11 in Notebook
+
 #### Back Propogation
 - Every layer's weights need to be updated (Every function needs to be improved)
   - Calculate Difference between predicted output and actual output (a.k.a Loss)
@@ -46,7 +47,7 @@ Refer [this notebook by Andrew NG](https://github.com/Kulbear/deep-learning-cour
 #### Other details
 - Epochs : How many times would you repeat ForwardPropogation + BackPropogation ?
 - Stochastic Gradient Descent
-  - Convention : Learn (FP+BP) from `nk` at once, in one epoch
+  - Convention : Learn (FP+BP) from `nk` (all) samples at once, in one epoch
   - Smarter & Faster to learn (FP+BP) from `k` samples `n` times in one epoch
   - How ?
     1. Shuffle dataset ("stochastic") ie. shuffle order of `nk` samples
@@ -54,5 +55,5 @@ Refer [this notebook by Andrew NG](https://github.com/Kulbear/deep-learning-cour
     3. Ideally, this should "represent" the entire dataset
     4. FP & BP with `k` samples. Update weights.
     5. Process next `k` samples. ie. go to step 2.
-  - Hence, within an epoch, we are learning `n` times
+  - Hence, within an epoch, we are learning `n` times in the same epoch
   - `k` is also called "Batch Size"
